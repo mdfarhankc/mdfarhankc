@@ -15,4 +15,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdfarhankc)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdfarhankc)
 
-[![](https://github.com/izam-mohammed/izam-mohammed/blob/feature/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/izammohammed/)
+[![](https://github.com/mdfarhankc/mdfarhankc/blob/feature/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/mdfarhankc/)

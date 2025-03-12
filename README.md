@@ -13,6 +13,11 @@
 - 🛠️ **Frameworks:** Odoo, FastAPI, Django, Flask, React, Expo
 - ⚙️ **Tools:** Docker, Postgres
 
+![Farhan's github stats](https://github-readme-stats.vercel.app/api?username=mdfarhankc&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfarhankc&theme=tokyonight&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=mdfarhankc)
+
 ### 🔗 Connect With Me
 
 <p align="center">

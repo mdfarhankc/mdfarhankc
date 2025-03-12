@@ -1,18 +1,24 @@
 # Hi there! 👋 I'm Farhan
 
 ### 🚀 About Me
-- 🔭 I’m currently working as a Python/Odoo Developer
+
+- 🔭 I’m currently working as a **Python/Odoo Developer**
 - 💡 Exploring **Machine learning technologies**
 - 🌱 Learning more about **AI-driven apps and automation**
 - 📫 Reach me at: kcfarhan123@gmail.com
 
 ### 🛠️ Tech Stack
+
 - 💻 **Languages:** Python, JavaScript, TypeScript
-- 🛠️ **Frameworks:** Odoo, FastAPI, React, Django, Flask
+- 🛠️ **Frameworks:** Odoo, FastAPI, Django, Flask, React, Expo
 - ⚙️ **Tools:** Docker, Postgres
 
 ### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdfarhankc)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdfarhankc)
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/mdfarhankc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammed%20Farhan%20KC-blue?style=flat-square&logo=linkedin"></a>
+    <a href="https://www.instagram.com/md_farhankc/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-md_farhankc-blue?style=flat-square&logo=instagram"></a>
+    <a href="mailto:kcfarhan123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kcfarhan123@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 [![](https://github.com/mdfarhankc/mdfarhankc/blob/main/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/mdfarhankc/)

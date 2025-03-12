@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working as a Python/Odoo Developer
-- 💡 Exploring **React Native (Expo), FastAPI, and Go**
+- 💡 Exploring **Machine learning technologies**
 - 🌱 Learning more about **AI-driven apps and automation**
 - 📫 Reach me at: kcfarhan123@gmail.com
 

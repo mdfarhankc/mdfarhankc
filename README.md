@@ -2,16 +2,16 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working as a **Python/Odoo Developer**
+- 🔭 I’m currently working as a **Python Developer**
 - 💡 Exploring **Machine learning technologies**
 - 🌱 Learning more about **AI-driven apps and automation**
 - 📫 Reach me at: kcfarhan123@gmail.com
 
 ### 🛠️ Tech Stack
 
-- 💻 **Languages:** Python, JavaScript, TypeScript
-- 🛠️ **Frameworks:** Odoo, FastAPI, Django, Flask, React, Expo
-- ⚙️ **Tools:** Docker, Postgres
+- 💻 **Languages:** Python, JavaScript, TypeScript, Dart
+- 🛠️ **Frameworks:** Odoo, FastAPI, Django, Flask, React, Expo, Flutter
+- ⚙️ **Tools:** Docker, Postgres, Git
 
 ![Farhan's github stats](https://github-readme-stats.vercel.app/api?username=mdfarhankc&theme=tokyonight&show_icons=true&hide=["issues"])
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfarhankc&theme=tokyonight&layout=compact)
